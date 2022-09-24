@@ -1,2 +1,2 @@
-## micrograd by Andrej Karpathy
+## micrograd — Andrej Karpathy
 an Autograd (automatic gradient) engine that implements backpropagation.
